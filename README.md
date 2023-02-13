@@ -1,6 +1,6 @@
 <img alt="avatar" src="https://readyplayer.me/gallery/63ea5c9b291fee996b5d91e0-9ZK6Eajpeg">
 
-![alt text]([http://url/to/img.png](https://readyplayer.me/gallery/63ea5c9b291fee996b5d91e0-9ZK6Eajpe))
+![alt text](["http://url/to/img.png](https://readyplayer.me/gallery/63ea5c9b291fee996b5d91e0-9ZK6Eajpe"))
 
 - 👋 Hi, I’m @ayaderaghul
 - 👀 I’m interested in software/data.

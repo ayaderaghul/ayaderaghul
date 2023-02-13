@@ -1,3 +1,5 @@
+<img alt="avatar" src="https://readyplayer.me/gallery/63ea5c9b291fee996b5d91e0-9ZK6Eajpeg">
+
 - 👋 Hi, I’m @ayaderaghul
 - 👀 I’m interested in software/data.
 - 🌱 I’m currently learning at ![](https://img.shields.io/badge/Microverse-blueviolet)

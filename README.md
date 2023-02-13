@@ -1,8 +1,10 @@
-<table> 
-<tr> <img alt="avatar" src="https://raw.githubusercontent.com/ayaderaghul/ayaderaghul/avatar/ReadyPlayerMe-Avatar.jpeg" style="width:40%;height=40%"> </tr>
-  
-<tr> - 👋 Hi, I’m @ayaderaghul - 👀 I’m interested in software/data. - 🌱 I’m currently learning at ![](https://img.shields.io/badge/Microverse-blueviolet) - 💞️ I’m looking to collaborate - 📫 How to reach me: chinguyen.dev@gmail.com </tr>
-</table>
+<img alt="avatar" src="https://raw.githubusercontent.com/ayaderaghul/ayaderaghul/avatar/ReadyPlayerMe-Avatar.jpeg" style="width:40%;height=40%">
+
+- 👋 Hi, I’m @ayaderaghul 
+- 👀 I’m interested in software/data. 
+- 🌱 I’m currently learning at ![](https://img.shields.io/badge/Microverse-blueviolet) 
+- 💞️ I’m looking to collaborate 
+- 📫 How to reach me: chinguyen.dev@gmail.com
   
   <h3>👨‍💻 Programming and Markup Languages</h3>
 

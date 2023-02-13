@@ -1,4 +1,4 @@
-<img alt="avatar" src="https://github.com/ayaderaghul/ayaderaghul/blob/avatar/ReadyPlayerMe-Avatar.jpeg?raw=true" style="width:50%;height:50%">
+<img alt="avatar" src="https://github.com/ayaderaghul/ayaderaghul/blob/avatar/ReadyPlayerMe-Avatar.jpeg?raw=true">
 
 - 👋 Hi, I’m @ayaderaghul
 - 👀 I’m interested in software/data.

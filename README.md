@@ -1,8 +1,8 @@
 <img alt="avatar" src="https://raw.githubusercontent.com/ayaderaghul/ayaderaghul/c5b39d4d7e7c5f64f3d5c41e20077020c4c4a3de/ReadyPlayerMe-Avatar.jpeg" style="width:40%;height=40%">
 
 - 👋 Hi, I’m @ayaderaghul 
-- 👀 I’m interested in software/data. 
-- 🌱 I’m currently learning at ![](https://img.shields.io/badge/Microverse-blueviolet) 
+- 👀 I’m interested in modeling/software/data. 
+- 🌱 I’m currently learning at ![](https://img.shields.io/badge/Microverse-blueviolet), working on Unsupervised Deep Reinforcement Learning with application in game theory, with extension on probabilistic and logic. 
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me: chinguyen.dev@gmail.com
   

@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @ayaderaghul 
 - 👀 I’m interested in modeling/software/data. 
-- 🌱 I’m currently learning at ![](https://img.shields.io/badge/Microverse-blueviolet), working on Unsupervised Deep Reinforcement Learning with application in game theory, with extension on probabilistic and logic. 
+- 🌱 I’m currently learning at ![](https://img.shields.io/badge/Microverse-blueviolet), working on Unsupervised Deep Reinforcement Learning with application in game theory, with extension on probabilistic logic. 
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me: chinguyen.dev@gmail.com
   

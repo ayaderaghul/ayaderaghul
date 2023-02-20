@@ -16,6 +16,7 @@
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54">
     <img alt="Ruby" src="https://img.shields.io/badge/Ruby-43853D.svg?logo=ruby&logoColor=white&color=red">
+    <img alt="Racket" src="https://img.shields.io/badge/Racket-43853D.svg?logo=racket&logoColor=white&color=critical">
 </p>
 
 

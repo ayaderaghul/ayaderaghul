@@ -3,6 +3,8 @@
 <img alt="avatar" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Paul_Cezanne_Apples_and_Oranges.jpg" style="width:40%;height=40%">
 Paul Cézanne - 1900
 
+<br>
+
 - 👋 Hi, I’m @ayaderaghul 
 - 👀 I’m interested in modeling/software/data. 
 - 🌱 I’m currently learning at ![](https://img.shields.io/badge/Microverse-blueviolet), working on Unsupervised Deep Reinforcement Learning with application in game theory, with extension on probabilistic logic. 

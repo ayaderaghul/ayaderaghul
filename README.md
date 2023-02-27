@@ -1,4 +1,7 @@
-<img alt="avatar" src="https://raw.githubusercontent.com/ayaderaghul/ayaderaghul/c5b39d4d7e7c5f64f3d5c41e20077020c4c4a3de/ReadyPlayerMe-Avatar.jpeg" style="width:40%;height=40%">
+<!-- <img alt="avatar" src="https://raw.githubusercontent.com/ayaderaghul/ayaderaghul/c5b39d4d7e7c5f64f3d5c41e20077020c4c4a3de/ReadyPlayerMe-Avatar.jpeg" style="width:40%;height=40%"> -->
+
+<img alt="avatar" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Paul_Cezanne_Apples_and_Oranges.jpg" style="width:40%;height=40%">
+Paul Cézanne - 1900
 
 - 👋 Hi, I’m @ayaderaghul 
 - 👀 I’m interested in modeling/software/data. 
@@ -27,10 +30,6 @@
 <a href="https://twitter.com/ayaderaghul" rel="nofollow"><img src="https://camo.githubusercontent.com/72b90db8b403b8087e20699857f05cb0a201f2ddfa8439783d3ef17cee0eea02/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Twitter-0077b5?&amp;logo=Twitter&amp;logoColor=white&color=informational" style="max-width: 100%;"></a>
 </p>
 
-Here is a piece of art:
-
-<img alt="avatar" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Paul_Cezanne_Apples_and_Oranges.jpg" style="width:40%;height=40%">
-Paul Cézanne - 1900
 <!---
 ayaderaghul/ayaderaghul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -22,6 +22,7 @@ Paul Cézanne - 1900
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54">
     <img alt="Ruby" src="https://img.shields.io/badge/Ruby-43853D.svg?logo=ruby&logoColor=white&color=red">
     <img alt="Racket" src="https://img.shields.io/badge/Racket-43853D.svg?logo=racket&logoColor=white&color=blue">
+    <img alt="C" src="https://img.shields.io/badge/C-43853D.svg?&logoColor=white&color=blue">
 </p>
 
 

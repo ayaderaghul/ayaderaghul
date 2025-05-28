@@ -8,7 +8,6 @@ Paul Cézanne - 1900
 
 - 👋 Hi, I’m @ayaderaghul. I have a PhD in Economics and self study Computer Science.
 - 👀 I’m interested in modeling/software/data. Here is demo of some of my projects: <a href="https://foremost-abalone-linen.glitch.me">MoveNet scoring yoga poses</a> and <a href="https://huggingface.co/ayaderaghul/photo2monet">cycleGAN model to convert photos into Monet</a>. I have coded simulations for my thesis for evolutionary algorithm in game theory.
-- 🌱 I’m currently learning at ![](https://img.shields.io/badge/Microverse-blueviolet), working on Unsupervised Deep Reinforcement Learning with application in game theory, with extension on probabilistic logic. 
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me: nguyenlinhchi09@gmail.com
   

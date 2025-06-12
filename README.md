@@ -9,7 +9,7 @@ Paul Cézanne - 1900
 - 👋 Hi, I’m @ayaderaghul. I have a PhD in Economics and self study Computer Science.
 - 👀 I’m interested in modeling/software/data. I have coded simulations for my thesis for evolutionary algorithm in game theory using functional language Racket (Scheme/LISP). I have had grants to speak about those simulations in conferences worldwide. Check out my code at this repo: https://github.com/ayaderaghul/fsm-pd
 - Python projects: OpenCV to grade automatically exam sheets: https://github.com/ayaderaghul/grader; mixing exam questions: https://github.com/ayaderaghul/mixer; photo2Monet: https://huggingface.co/ayaderaghul/photo2monet
-- JS (react, nodejs) projects: admin dashboard (https://github.com/ayaderaghul/ecommerce-admin), e-commerce site clone
+- JS (react, nodejs) projects: admin dashboard (https://github.com/ayaderaghul/ecommerce-admin), e-commerce site clone (using React components): https://github.com/ayaderaghul/ecommerce-react, the api is written in Nodejs (https://github.com/ayaderaghul/ecommerce-api), with Postman test
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me: nguyenlinhchi09@gmail.com
   

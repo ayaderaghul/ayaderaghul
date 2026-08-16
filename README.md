@@ -6,7 +6,7 @@ Paul Cézanne - 1900
 <br>
 <br>
 
-- 👋 Hi, I’m @ayaderaghul. I have a PhD in Economics and Management & take vocational training in Computer Science.
+- 👋 Hi, I’m @ayaderaghul. I have a PhD in Economics and Management & self-teach Computer Science.
 - 👀 I’m interested in modeling/software/data. I have coded simulations for my thesis for evolutionary algorithm in game theory using functional language Racket (Scheme/LISP). I have had grants to speak about those simulations in conferences worldwide ([video](https://www.youtube.com/watch?v=KZ_YnOFkVx0&list=PLXr4KViVC0qKSiKGO6Vz9EtxUfKPb1Ma0&index=9&t=139s)). Check out my code at this [repo](https://github.com/ayaderaghul/fsm-pd)
 
 - Selected projects:
